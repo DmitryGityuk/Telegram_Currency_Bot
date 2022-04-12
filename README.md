@@ -1,2 +1,2 @@
 # Telegram_Bot
-simple telegram bot
+Этот бот выполняет конвертацию валют.
